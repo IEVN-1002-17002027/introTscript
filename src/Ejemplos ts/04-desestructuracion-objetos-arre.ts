@@ -17,7 +17,7 @@ interface Detalles{
 const reproductor: Reproductor={
     volumen:90,
     segundo:66,
-    cancion:"Mañanitas",
+    cancion:"Mañaniitas",
     detalles:{
         autor:'Cepillin',
         year:1978,
